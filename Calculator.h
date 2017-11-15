@@ -1,4 +1,6 @@
 #include <stdint.h>
 
-double Addition(double a,double b);
-double Subtraktion(double a,double b);
+float Addition(float a,float b);
+float Subtraktion(float a,float b);
+float Multiplikation(float a,float b);
+float Division(float a,float b);

@@ -1,11 +1,21 @@
 #include "Calculator.h"
 
-double Addition(double a,double b){
+float Addition(float a,float b){
 
-    return 1;
+    return a+b;
 }
 
-double Subtraktion(double a,double b){
+float Subtraktion(float a,float b){
 
-    return 1;
+    return a-b;
+}
+
+float Multiplikation(float a,float b){
+
+    return a*b;
+}
+
+float Division(float a,float b){
+
+    return a/b;
 }
